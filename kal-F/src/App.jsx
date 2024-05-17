@@ -2,7 +2,6 @@ import React from 'react';
 import { BrowserRouter as Router,Route,Routes, Link, RouterProvider } from "react-router-dom"
 import Navbar from "./Navbar"
 import Body from './Body';
-import Story from './Story';
 import MarketPlace from './MarketPlace';
 import Groups from './Groups';
 import Vedio from './Vedio';
